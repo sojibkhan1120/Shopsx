@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Global Order VIP USDT Platform NEW 10",
+  "description": "An intelligent cloud global order matching and USDT commission platform featuring VIP tasks, deposit, withdrawal, and team records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

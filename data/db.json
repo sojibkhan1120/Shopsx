@@ -1,0 +1,297 @@
+{
+  "users": [
+    {
+      "id": "usr-1788929091526",
+      "username": "testaccount123",
+      "password": "168168",
+      "avatar": "polygon",
+      "vipLevel": 0,
+      "invitationCode": "326227",
+      "referredBy": "Official Platform Partner",
+      "ipAddress": "103.139.9.197",
+      "location": "Panti, Bangladesh",
+      "device": "Desktop/PC • Windows",
+      "balance": 0,
+      "frozenBalance": 0,
+      "cashGap": 0,
+      "todayCommission": 0,
+      "todayTimes": 0,
+      "maxDailyTimes": 25,
+      "walletAddress": null,
+      "withdrawalAddress": null,
+      "walletName": null,
+      "walletBound": false,
+      "withdrawPassword": "Password123",
+      "joinDate": "2026-09-09 04:44:51",
+      "lastActive": "Active Now",
+      "lastLoginAt": "2026-09-09 04:44:51",
+      "loginCount": 1,
+      "loginHistory": [
+        {
+          "id": "log-1788929091526-reg",
+          "timestamp": "2026-09-09 04:44:51",
+          "ip": "103.139.9.197",
+          "location": "Panti, Bangladesh",
+          "device": "Desktop/PC • Windows",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+          "status": "success",
+          "note": "Account Registration & 1st Login"
+        }
+      ],
+      "status": "active",
+      "accountCategory": "standard_real",
+      "workCycle": 1,
+      "customCombo": {
+        "enabled": true,
+        "triggerTaskIndex": 12,
+        "comboPrice": 118.24,
+        "cashGap": 18.24,
+        "commissionEarned": 18.5,
+        "forceNext": false,
+        "accountType": "standard_real",
+        "multiStages": [
+          {
+            "stageNumber": 1,
+            "triggerTaskIndex": 12,
+            "comboPrice": 118.24,
+            "cashGap": 18.24,
+            "commissionEarned": 18.5,
+            "description": "Round 1 Combo (1 of 1 • Task #12 • $18.24 Top-up)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr-1788702376506",
+      "username": "pranto123",
+      "password": "123456",
+      "avatar": "polygon",
+      "vipLevel": 0,
+      "invitationCode": "267180",
+      "referredBy": "Official Platform Partner",
+      "ipAddress": "103.139.9.199",
+      "location": "Panti, Bangladesh",
+      "device": "Desktop/PC • Windows",
+      "balance": 0,
+      "frozenBalance": 0,
+      "cashGap": 0,
+      "todayCommission": 0,
+      "todayTimes": 0,
+      "maxDailyTimes": 25,
+      "walletAddress": null,
+      "withdrawalAddress": null,
+      "walletName": null,
+      "walletBound": false,
+      "withdrawPassword": "Password123",
+      "joinDate": "2026-09-06 13:46:16",
+      "lastActive": "Active Now",
+      "loginCount": 1,
+      "status": "active",
+      "accountCategory": "standard_real",
+      "workCycle": 1,
+      "customCombo": {
+        "enabled": true,
+        "triggerTaskIndex": 12,
+        "comboPrice": 118.24,
+        "cashGap": 18.24,
+        "commissionEarned": 18.5,
+        "forceNext": false,
+        "accountType": "standard_real",
+        "multiStages": [
+          {
+            "stageNumber": 1,
+            "triggerTaskIndex": 12,
+            "comboPrice": 118.24,
+            "cashGap": 18.24,
+            "commissionEarned": 18.5,
+            "description": "Round 1 Combo (1 of 1 • Task #12 • $18.24 Top-up)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr-1788701923409",
+      "username": "labu123",
+      "password": "123456",
+      "avatar": "polygon",
+      "vipLevel": 0,
+      "invitationCode": "641279",
+      "referredBy": "Official Platform Partner",
+      "ipAddress": "103.139.9.199",
+      "location": "Panti, Bangladesh",
+      "device": "Desktop/PC • Windows",
+      "balance": 0,
+      "frozenBalance": 0,
+      "cashGap": 0,
+      "todayCommission": 0,
+      "todayTimes": 0,
+      "maxDailyTimes": 25,
+      "walletAddress": null,
+      "withdrawalAddress": null,
+      "walletName": null,
+      "walletBound": false,
+      "withdrawPassword": "Password123",
+      "joinDate": "2026-09-06 13:38:43",
+      "lastActive": "Active Now",
+      "loginCount": 1,
+      "status": "active",
+      "accountCategory": "standard_real",
+      "workCycle": 1,
+      "customCombo": {
+        "enabled": true,
+        "triggerTaskIndex": 12,
+        "comboPrice": 118.24,
+        "cashGap": 18.24,
+        "commissionEarned": 18.5,
+        "forceNext": false,
+        "accountType": "standard_real",
+        "multiStages": [
+          {
+            "stageNumber": 1,
+            "triggerTaskIndex": 12,
+            "comboPrice": 118.24,
+            "cashGap": 18.24,
+            "commissionEarned": 18.5,
+            "description": "Round 1 Combo (1 of 1 • Task #12 • $18.24 Top-up)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr-demo-1788855057613-bpde",
+      "username": "Cari001",
+      "password": "112233",
+      "avatar": "polygon",
+      "vipLevel": 0,
+      "invitationCode": "655545",
+      "referredBy": "Help Task Training Demo",
+      "ipAddress": "37.111.243.12",
+      "location": "Dhaka, Bangladesh",
+      "device": "Desktop/PC • Windows",
+      "balance": 0,
+      "frozenBalance": 0,
+      "cashGap": 0,
+      "todayCommission": 0,
+      "todayTimes": 0,
+      "maxDailyTimes": 25,
+      "walletAddress": "TAXj5gzNPZo6AyCqVhKiBVSpgxe7LrWDvT",
+      "withdrawalAddress": "TAXj5gzNPZo6AyCqVhKiBVSpgxe7LrWDvT",
+      "walletName": "USDT TRC-20",
+      "walletBound": true,
+      "withdrawPassword": "Password123",
+      "joinDate": "2026-09-08 08:10:57",
+      "lastActive": "Active Now",
+      "lastLoginAt": "2026-09-08 08:11:15",
+      "loginCount": 1,
+      "status": "active",
+      "accountCategory": "training_help",
+      "customCombo": {
+        "enabled": true,
+        "triggerTaskIndex": 6,
+        "comboPrice": 480,
+        "cashGap": 159,
+        "commissionEarned": 38,
+        "forceNext": false,
+        "accountType": "training_help",
+        "multiStages": [
+          {
+            "stageNumber": 1,
+            "triggerTaskIndex": 6,
+            "comboPrice": 480,
+            "cashGap": 159,
+            "commissionEarned": 38,
+            "description": "Stage 1: Basic Trap (Deposit $159)"
+          },
+          {
+            "stageNumber": 2,
+            "triggerTaskIndex": 12,
+            "comboPrice": 850,
+            "cashGap": 299,
+            "commissionEarned": 75,
+            "description": "Stage 2: Medium Trap (Deposit $299)"
+          },
+          {
+            "stageNumber": 3,
+            "triggerTaskIndex": 18,
+            "comboPrice": 1450,
+            "cashGap": 490,
+            "commissionEarned": 135,
+            "description": "Stage 3: Deep Trap (Deposit $490)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr-demo-1788930784830-rbg5",
+      "username": "Cari002",
+      "password": "112233",
+      "avatar": "polygon",
+      "vipLevel": 0,
+      "invitationCode": "981945",
+      "referredBy": "Help Task Training Demo",
+      "ipAddress": "103.139.9.197",
+      "location": "Panti, Bangladesh",
+      "device": "Desktop/PC • Windows",
+      "balance": 0,
+      "frozenBalance": 0,
+      "cashGap": 0,
+      "todayCommission": 0,
+      "todayTimes": 0,
+      "maxDailyTimes": 25,
+      "walletAddress": "TAXj5gzNPZo6AyCqVhKiBVSpgxe7LrWDvT",
+      "withdrawalAddress": "TAXj5gzNPZo6AyCqVhKiBVSpgxe7LrWDvT",
+      "walletName": "USDT TRC-20",
+      "walletBound": true,
+      "withdrawPassword": "Password123",
+      "joinDate": "2026-09-09 05:13:04",
+      "lastActive": "Active Now",
+      "lastLoginAt": "2026-09-09 05:13:20",
+      "loginCount": 1,
+      "status": "active",
+      "accountCategory": "training_help",
+      "customCombo": {
+        "enabled": true,
+        "triggerTaskIndex": 6,
+        "comboPrice": 480,
+        "cashGap": 159,
+        "commissionEarned": 38,
+        "forceNext": false,
+        "accountType": "training_help",
+        "multiStages": [
+          {
+            "stageNumber": 1,
+            "triggerTaskIndex": 6,
+            "comboPrice": 480,
+            "cashGap": 159,
+            "commissionEarned": 38,
+            "description": "Stage 1: Basic Trap (Deposit $159)"
+          },
+          {
+            "stageNumber": 2,
+            "triggerTaskIndex": 12,
+            "comboPrice": 850,
+            "cashGap": 299,
+            "commissionEarned": 75,
+            "description": "Stage 2: Medium Trap (Deposit $299)"
+          },
+          {
+            "stageNumber": 3,
+            "triggerTaskIndex": 18,
+            "comboPrice": 1450,
+            "cashGap": 490,
+            "commissionEarned": 135,
+            "description": "Stage 3: Deep Trap (Deposit $490)"
+          }
+        ]
+      }
+    }
+  ],
+  "orders": [],
+  "referrals": [],
+  "deposits": [],
+  "withdrawals": [],
+  "admin": {
+    "username": "admin",
+    "password": "admin7788"
+  }
+}
